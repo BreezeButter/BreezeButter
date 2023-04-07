@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BreezeButter
-- 👀 I’m interested in code
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on every one who get me in the team cuz.. i am a noob programming 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning CssFreamwork, Javascript, Reactjs ...etc
+- 💞️ I’m looking for junior dev job
 - 📫 How to reach me ... in here ~
 
 <!---
