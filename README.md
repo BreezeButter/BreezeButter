@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BreezeButter
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CssFreamwork, Javascript, Reactjs ...etc
+- 🌱 I’m currently learning CssFreamwork, Javascript, Reactjs, Python, ML  ...etc
 - 💞️ I’m looking for junior dev job
 - 📫 How to reach me ... in here ~
 
